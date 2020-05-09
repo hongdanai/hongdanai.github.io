@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.hongdan.ai/article/4a17b156/</loc>
+    <lastmod>2020-05-09</lastmod>
+  </url>  <url>
+    <loc>https://www.hongdan.ai/article/fbc2a1fb/</loc>
+    <lastmod>2020-05-09</lastmod>
+  </url>  <url>
     <loc>https://www.hongdan.ai/article/3db0dc85/</loc>
     <lastmod>2020-05-08</lastmod>
   </url>  <url>
@@ -51,11 +57,5 @@
   </url>  <url>
     <loc>https://www.hongdan.ai/article/cf85e81d/</loc>
     <lastmod>2020-05-08</lastmod>
-  </url>  <url>
-    <loc>https://www.hongdan.ai/article/fbc2a1fb/</loc>
-    <lastmod>2020-05-06</lastmod>
-  </url>  <url>
-    <loc>https://www.hongdan.ai/article/4a17b156/</loc>
-    <lastmod>2020-05-06</lastmod>
   </url>
 </urlset>
